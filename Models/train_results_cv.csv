@@ -1,0 +1,9 @@
+,Dataset,Classifier,Comb,log_loss_training,auc_train
+0,detailed,random_forest,T,-0.5619837459083219,0.7902097902097902
+1,detailed,logistic_reg,T,-0.545711779664465,0.8006993006993006
+2,detailed,xgboost,T,-0.5333275490171842,0.8601398601398602
+3,detailed,lightgbm,T,-0.5365688482860651,0.8251748251748252
+4,simple,lightgbm,T,-0.607510,0.685189
+5,simple,logistic_reg,T,-0.642812,0.665506
+6,simple,random_forest,T,-0.607497,0.690506
+7,simple,xgboost,T,-0.606837,0.683352
